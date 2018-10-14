@@ -1,0 +1,22 @@
+{
+  "name": "ecblivedrop",
+  "version": "1.0.0",
+  "description": "ECB Web page live preview drag &amp; drop word document to convert to web page immediately",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leomastoras/ecblivedrop.git"
+  },
+  "author": "Leo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leomastoras/ecblivedrop/issues"
+  },
+  "homepage": "https://github.com/leomastoras/ecblivedrop#readme",
+  "dependencies": {
+    "node-static": "^0.7.11"
+  }
+}
